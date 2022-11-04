@@ -1,0 +1,230 @@
+.limit {
+
+    height: 80px;
+}
+
+header {
+
+    background-image: url(../shape-a.png);
+   /* height: 600px; */
+background-repeat: no-repeat;
+background-size: contain, cover;
+
+}
+
+#AboutCorona {
+margin-top: 250px;
+
+}
+ul{
+    text-decoration: none;
+    list-style: none;
+    margin-left: 0;
+}
+
+#knowledge{
+width: 350px;
+
+
+}
+
+
+#Spread {
+    margin: 250px;
+  
+    
+
+}
+#gray{
+    height: 850px;
+    margin-bottom: 85px;
+}
+.CovidSpread{
+    width: 100%;
+    border-bottom: 5px solid #96c1f3
+    
+}
+.sections{
+    width: 20%;
+}
+
+.Fever{
+    width: 30%;
+    margin-left: 200px;
+}
+
+
+.prevent{
+    width: 250px;
+}
+#advice{
+    margin-bottom: 85px;
+}
+
+#long {
+    height: 2500px;
+}
+#treatment {
+    height: 600px;
+    background-image: url(../shape-a.png);
+    background-size: contain;
+   
+}
+
+
+.wash{
+    width: 180px;
+}
+
+.selfcare{
+    height: 92%;
+}
+
+.okay {
+    position: relative;
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 50px;
+    z-index: 1;
+  
+    }
+    img {
+   
+    
+    cursor: pointer;
+    
+    text-align: center;
+    color: white;
+    line-height: 48px;
+    font-size: 14px;
+    font-weight: bold;
+    }
+    .okay .fa-check {
+    position: absolute;
+    top: 7px;
+    right : 85px;
+    font-size: 20px;
+    }
+    .okay .fa-circle-xmark {
+    position: absolute;
+    top: 7px;
+    font-size: 20px;
+    }
+
+    
+    #dont{
+        margin-top: 100px;
+        height: 900px;
+    }
+
+    #FAQ{
+        margin-top: 100px;
+    }
+    
+    #NEWS{
+        height: 700px;
+        margin-top: 50px;
+
+    }
+
+.blog{
+    width: 80%;
+    margin:0 auto;
+}
+
+
+.virus{
+
+    color: #ff615f;
+}
+
+
+#end{
+    margin-top: 100px;
+    height: 900px;
+}
+
+.lightgray{
+    color: #8c94b6;
+}
+
+
+#Facebook{
+background-color: #3b5998;
+}
+#Twitter{
+background-color: #55acee;
+}
+#Instagram{
+background-color: 
+#f2515c;
+}
+
+.mright{
+    
+    margin-left: 100px;
+}
+    .mtop{
+    
+    margin-top: 75px;
+}
+
+footer{
+    background-image: url(../shape-a.png);
+    background-size: contain;
+}
+
+#scroller{
+    display: none;
+    position: fixed;
+    
+    z-index: 2;
+    
+    
+}
+#myBtn{
+
+    display: none;
+position: fixed;
+bottom: 20px;
+right: 30px;
+z-index: 99;
+font-size: 18px;
+background-color: transparent;
+border: none;
+}
+
+.move{
+    margin-left: 110px;
+}
+
+
+#AboutCorona:hover + #Sym{
+
+  color: blue;
+}
+
+.lists{
+    background-color: white;
+}
+
+
+
+.food{
+    text-align: left;
+}
+
+.hover:hover{
+
+    color: #1b71fd;
+}
+
+.blue::before{
+    content: "\2022";
+  color: #1b71fd;
+  font-weight: bold;
+  display: inline-block; 
+ font-size: 20px;
+ width: 1em;
+  margin-left: -1em;
+}
